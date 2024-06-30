@@ -1,4 +1,3 @@
-```markdown
 # EverCraft-Kata
 
 EverCraft-Kata is a simple role-playing game implementation in Python. It includes various character classes such as Fighters, Rogues, Monks, and Paladins, each with unique abilities and features. The game supports character creation, alignment, combat, leveling, races, and equipment, as well as a grid-based battle map for the Bonus Iteration.
